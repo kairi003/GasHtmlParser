@@ -22,7 +22,7 @@ console.log(dom.querySelector('#id .pear').textContent);
 # Build
 ```sh
 git clone {REMOTE_REPOSITORY}
-cd /d {REPOSITORY_NAME}
+cd {REPOSITORY_NAME}
 npm install
 npm run build
 ```
