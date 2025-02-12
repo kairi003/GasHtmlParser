@@ -7,7 +7,7 @@ GAS Project: [https://script.google.com/home/projects/1JTLPVXGW6Pq4zSAV5ED9XrWOP
 Script ID :`1JTLPVXGW6Pq4zSAV5ED9XrWOPydVywumQZSOWN7l6KJ0UtWxtX3RbYO6`
 
 # Example
-```
+```js
 const html = `<body>
   <ul id="fruits">
     <li class="apple">Apple</li>
